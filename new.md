@@ -6,7 +6,7 @@ Use the following steps to generate documentation using scaladoc.
 
 1. Use Scaladoc comment block which starts with /** and ends with */ as follows.
 
-''''scala
+````scala
 /** Start the comment here
   * and use the left star followed by a
   * white space on every line.
@@ -19,6 +19,6 @@ Use the following steps to generate documentation using scaladoc.
   * first line and on subsequent ones.
   *
   */
-''''
+````
 
 

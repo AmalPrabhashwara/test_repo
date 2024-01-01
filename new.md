@@ -4,7 +4,7 @@ Scaladoc is a Documentation generating tool used in scala. It reads the speciall
 
 Use the following steps to generate documentation using scaladoc.
 
-1. Use Scaladoc comment block which starts with /** and ends with */ as follows.
+__1. Use Scaladoc comment block which starts with /** and ends with */ as follows.__
 
 ````scala
 /** Start the comment here

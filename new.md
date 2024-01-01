@@ -27,11 +27,13 @@ __Packages-__
 - Overview of the package(What the package is about)
 - Classes included in the package(Overview to major classes with basic examples to use in the package, reference the any classes with square bracket notation)
 
-Classes
-Functionality of the class
-Mention what the constructor does with the @constructor tag
-Define the Parameters in the constructor with @param tag
-Document type parameters using @tparam tag
+__Classes__
+- Functionality of the class
+- Mention what the constructor does with the @constructor tag
+- Define the Parameters in the constructor with @param tag
+- Document type parameters using @tparam tag
+
+````scala
 /** A person who uses our application.
  *
  *  @constructor create a new person with a name and age.
@@ -40,6 +42,8 @@ Document type parameters using @tparam tag
  */
 class Person(name: String, age: Int) {
 }
+````
+
 
 
 

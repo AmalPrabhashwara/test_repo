@@ -29,7 +29,7 @@ __Packages-__
 
 __Classes__
 - Functionality of the class
-- Mention what the constructor does with the ````scala@constructor```` tag
+- Mention what the constructor does with the ````scala @constructor ```` tag
 - Define the Parameters in the constructor with @param tag
 - Document type parameters using @tparam tag
 

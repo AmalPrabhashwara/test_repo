@@ -29,8 +29,8 @@ __Packages-__
 
 __Classes__
 - Functionality of the class
-- Mention what the constructor does with the ````scala @constructor ```` tag
-- Define the Parameters in the constructor with @param tag
+- Mention what the constructor does with the `@constructor` tag
+- Define the Parameters in the constructor with `@param` tag
 - Document type parameters using @tparam tag
 
 ````scala
@@ -43,6 +43,13 @@ __Classes__
 class Person(name: String, age: Int) {
 }
 ````
+Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
+
+
 
 
 

@@ -23,5 +23,23 @@ __1. Use Scaladoc comment block which starts with /** and ends with */ as follow
 
 __2.  Put Scaladoc comments above each following field in the source code with the important details relevant to each field.__
 
+__Packages-__
+- Overview of the package(What the package is about)
+- Classes included in the package(Overview to major classes with basic examples to use in the package, reference the any classes with square bracket notation)
+
+Classes
+Functionality of the class
+Mention what the constructor does with the @constructor tag
+Define the Parameters in the constructor with @param tag
+Document type parameters using @tparam tag
+/** A person who uses our application.
+ *
+ *  @constructor create a new person with a name and age.
+ *  @param name the person's name
+ *  @param age the person's age in years
+ */
+class Person(name: String, age: Int) {
+}
+
 
 

@@ -21,4 +21,7 @@ __1. Use Scaladoc comment block which starts with /** and ends with */ as follow
   */
 ````
 
+__2.  Put Scaladoc comments above each following field in the source code with the important details relevant to each field.__
+
+
 

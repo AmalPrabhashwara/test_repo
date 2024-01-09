@@ -47,7 +47,7 @@ Month    | Savings |
 | -------- | ------- |
 | __January__  | $250    |
 | \_\_February\_\_ | $80     |
-| `March`    | $420    |
+| \`March\`    | $420    |
 
 
 uyllil;

@@ -46,7 +46,7 @@ class Person(name: String, age: Int) {
 Month    | Savings |
 | -------- | ------- |
 | __January__  | $250    |
-| \__February\__ | $80     |
+| \_\_February\_\_ | $80     |
 | March    | $420    |
 
 

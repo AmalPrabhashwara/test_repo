@@ -48,7 +48,7 @@ Month    | Savings |
 | __January__  | $250    |
 | \_\_February\_\_ | $80     |
 | \`March\`    | // all on one line<br> {{{ if (foo) bar else   baz }}} <br><br> //Multiline code elements <br> bergehge |
-
+| list   | /** Unordered list(bullet list) <br> * <br> *    - first item <br> *     - second item <br> *          - sub item <br> *        - another sub item <br> *      - third item <br> * <br>* Ordered List(Numbered list) <br> *  <br> *     1. first item <br> *    1. second item <br> *         i. sub item <br> *          i. another sub item <br> *   1.third item |
 
 uyllil;
 

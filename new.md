@@ -51,17 +51,11 @@ Month    | Savings |
 | list   | /** Unordered list(bullet list) <br> * <br> *    - first item <br> *     - second item <br> *          - sub item <br> *        - another sub item <br> *      - third item <br> * <br>* Ordered List(Numbered list) <br> *  <br> *     1. first item <br> *    1. second item <br> *         i. sub item <br> *          i. another sub item <br> *   1.third item |
 | list2   | >/** Unordered list(bullet list) >> * >> *    - first item >> *     - second item <br> *          - sub item <br> *        - another sub item <br> *      - third item <br> * <br>* Ordered List(Numbered list) <br> *  <br> *     1. first item <br> *    1. second item <br> *         i. sub item <br> *          i. another sub item <br> *   1.third item |
 |kknnn|jnjjj|
-|knkjkj |````scala
-/** A person who uses our application.
- *
- *  @constructor create a new person with a name and age.
- *  @param name the person's name
- *  @param age the person's age in years
- */
-class Person(name: String, age: Int) {
-}
-````
-|
+|knkjkj |````scal|
+
+| Name | Signature Code                 |
+|------|--------------------------------|
+| Minhas Kamal | <pre>main(m,k){<br>  for(<br>    ;<br>    m%k--?:(k=m++);<br>    k^1?:printf("%i\|",m)<br>  );<br>}</pre> |
 
 uyllil;
 

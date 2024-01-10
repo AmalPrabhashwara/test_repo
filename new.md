@@ -56,6 +56,7 @@ Month    | Savings |
 | Name | Signature Code                 |
 |------|--------------------------------|
 | Minhas Kamal | <pre>main(m,k){<br>  for(<br>    ;<br>    m%k--?:(k=m++);<br>    k^1?:printf("%i\|",m)<br>  );<br>}</pre> |
+| list | <pre>/**Unordered list(bullet list)<br>  *    - first item<br> *    - second item </prev>|
 
 uyllil;
 
